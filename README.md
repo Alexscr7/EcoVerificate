@@ -15,8 +15,7 @@ EcoVerificate contributes to more ethical, informed consumption and supports the
 
 ---
 # Technlogies Used
-- ## Figma "<img src="https://static.vecteezy.com/system/resources/previews/065/386/871/non_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" widht="10">
-
+- ## Figma
 ---
 # How to use the created application
 ### How Users Interact with EcoVerificate
